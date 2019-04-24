@@ -1,0 +1,7 @@
+#!/usr/bin/stap
+
+probe begin{
+	printf("Hello World");
+	exit();
+
+}
