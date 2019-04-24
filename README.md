@@ -1,6 +1,10 @@
 # SystemTap Keylogger
 
-# TODO
+SystemTap is a scripting language that is able to interact with the kernel to get information or change some things.
+
+# Purpsose
+
+To create a kernal keylogger that can be used in IRsec, ISTS and UB competition by Redteam.
 
 # Prerequis:
 .......
