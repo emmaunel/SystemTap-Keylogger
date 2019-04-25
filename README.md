@@ -4,13 +4,4 @@ SystemTap is a scripting language that is able to interact with the kernel to ge
 
 # Purpsose
 
-To create a kernal keylogger that can be used in IRsec, ISTS and UB competition by Redteam.
-
-# Prerequis:
-.......
-
-
-# Testing:
-I have not tested it yet. So it may or may not work -\__/-
-
-More instruction later
+A Red Team tool used to get keystrore from a box. It can be used to get user's password and its salts.
